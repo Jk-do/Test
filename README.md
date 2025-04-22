@@ -1,6 +1,5 @@
 <html>
 <body>
-    <title>Test for eyes.</title>
     <h1>Test for eyes.</h1>
     <h2>Level 1 (normal)</h2>
     <h3>Level 2 (normal)</h3>
