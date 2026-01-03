@@ -1,12 +1,15 @@
 <html>
+<head>
+    <title>Проверь зрение!</title>
+</head>
 <body>
-    <h1>Test for eyes.</h1>
-    <h2>Level 1 (normal)</h2>
-    <h3>Level 2 (normal)</h3>
-    <h4>Level 3 (good)</h4>
-    <h5>Level 4 (hard)</h5>
-    <h6>Level 5 (you finishing the test)</h6>
-    <h2>Thanks for watching!</h2>
-    <button>Click the button please!</button>
+    <h1>Проверь зрение.</h1>
+    <h1>Увидел?(Очень легко)</h1>
+    <h2>Тут?(Легко)</h2>
+    <h3>Видешь?(Нормально)</h3>
+    <h4>Всё ещё тут?(Круто)</h4>
+    <h5>Присмотрелся,да?(Предпоследний)</h5>
+    <h6>Сложно!(Сложно,ты прошёл этот тест!)</h6>
+    <button>Нажми если мужик!</button>
 </body>
 </html>
