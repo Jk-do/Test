@@ -1,4 +1,4 @@
-.new_class_for_button.clicked {
-  background-color: red;
+.new_class_for_button:hover {
   collor: red;
+  text-docoration: underline;
 }
