@@ -1,1 +1,3 @@
-
+.new_class_for_button::after {
+  collor: red;
+}
