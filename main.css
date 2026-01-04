@@ -1,3 +1,4 @@
-.new_class_for_button::after {
+.new_class_for_button.clicked {
+  background-color: red;
   collor: red;
 }
