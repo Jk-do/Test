@@ -1,7 +1,20 @@
-.new_class_for_button:hover {
+.class_for_button:hover {
   collor: red;
-  text-decoration: underline;
+}
+.button{
+  color: blue;
+}
+.button:clicked {
+  color: red;
 }
 body {
   background-color: #8bcfe8;
+}
+.firstdiv{
+  backround-image: url('https://www.astons.com/wp-content/uploads/2023/10/article_nas_ararat.webp');
+  backround-attachment: fixed;
+  height ; 250px;
+}
+.seconddiv{
+    height ; 1200px;
 }
