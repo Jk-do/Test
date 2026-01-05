@@ -8,13 +8,17 @@
   color: red;
 }
 body {
-  background: #8bcfe8;
+  cursor: move;
+  text-align: center;
+  background: blue;
+  text-spacing: 4px;
+  
 }
 .firstdiv{
   backround-image: url('https://www.astons.com/wp-content/uploads/2023/10/article_nas_ararat.webp');
   backround-attachment: fixed;
-  height ; 250px;
+  height: 250px;
 }
 .seconddiv{
-    height ; 1200px;
+  height: 1200px;
 }
